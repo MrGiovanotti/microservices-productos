@@ -2,7 +2,7 @@ package com.aprendizaje.productos.models.service;
 
 import java.util.List;
 
-import com.aprendizaje.productos.models.entity.Producto;
+import com.aprendizaje.microservices.commons.models.entities.Producto;
 
 public interface IProductoService {
 
